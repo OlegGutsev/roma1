@@ -1,0 +1,6 @@
+c:\users\oleg gutsev\documents\visual studio 2017\Projects\roma1\roma1\bin\Debug\roma1.exe.config
+c:\users\oleg gutsev\documents\visual studio 2017\Projects\roma1\roma1\bin\Debug\roma1.exe
+c:\users\oleg gutsev\documents\visual studio 2017\Projects\roma1\roma1\bin\Debug\roma1.pdb
+c:\users\oleg gutsev\documents\visual studio 2017\Projects\roma1\roma1\obj\Debug\roma1.csprojResolveAssemblyReference.cache
+c:\users\oleg gutsev\documents\visual studio 2017\Projects\roma1\roma1\obj\Debug\roma1.exe
+c:\users\oleg gutsev\documents\visual studio 2017\Projects\roma1\roma1\obj\Debug\roma1.pdb
